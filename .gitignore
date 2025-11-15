@@ -74,7 +74,3 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 
-# libs
-Content/_Libs/*
-kb3d_metadata.json
-README.txt
